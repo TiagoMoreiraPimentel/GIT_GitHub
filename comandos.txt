@@ -1,0 +1,12 @@
+... ou criar um novo repositório na linha de comando
+git init
+git add README.md
+git commit -m "texto do commit"
+git branch -M main
+git remote add origin git@github.com:TiagoMoreiraPimentel/GIT_GitHub.git
+git push -u origin main
+
+... ou empurrar um repositório existente da linha de comando
+git remote add origin git@github.com:TiagoMoreiraPimentel/GIT_GitHub.git
+git branch -M main
+git push -u origin main
