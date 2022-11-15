@@ -5,6 +5,7 @@ Repositório com informações do GIT e GitHub
 
 * [Comandos](http://comandosgit.github.io/)
 
+## Comandos mais udados para criar e atualizar o repositorio
 ```bash
 git init
 
